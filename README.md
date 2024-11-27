@@ -1,6 +1,6 @@
-# Overview of the basic declarative agent template.
+# Overview of the basic declarative agent template
 
-## Build a basic declarative agent with Edgar
+## Build a basic declarative agent
 
 With the declarative agent, you can build a custom version of Copilot that can be used for specific scenarios, such as for specialized knowledge, implementing specific processes, or simply to save time by reusing a set of AI prompts. For example, a grocery shopping Copilot declarative agent can be used to create a grocery list based on a meal plan that you send to Copilot.
 
