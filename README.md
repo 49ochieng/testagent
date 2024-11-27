@@ -1,4 +1,4 @@
-# Overview of the basic declarative agent template
+# Overview of the basic declarative agent template.
 
 ## Build a basic declarative agent
 
