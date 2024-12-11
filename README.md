@@ -23,7 +23,7 @@ With the declarative agent, you can build a custom version of Copilot that can b
 4. Select `Preview in Copilot (Edge)` or `Preview in Copilot (Chrome)` from the launch configuration dropdown.
 5. Once the Copilot app is loaded in the browser, click on the "…" menu and select "Copilot chats". You will see your declarative agent on the right rail. Clicking on it will change the experience to showcase the logo and name of your declarative agent.
 6. Ask a question to your declarative agent and it should respond based on the instructions provided.
-
+ 
 ## What's included in the template
 
 | Folder       | Contents                                                                                 |
